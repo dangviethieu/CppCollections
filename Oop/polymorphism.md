@@ -1,6 +1,6 @@
 **Đa hình (polymorphism) là hiện tượng mà các đối tượng thuộc các class khác nhau có thể biểu diễn cùng một thông thiệp theo các cách khác nhau.**
 
-![Screenshot](../imgs/polymorhism.png)
+![Screenshot](../imgs/%08polymorphism.png)
 
 Các loại đa hình
 * Compile time Polymorphism: 
